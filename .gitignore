@@ -1,0 +1,7 @@
+assets/data/jobs/*
+!assets/data/jobs/.gitkeep
+
+assets/cover_letters/*
+!assets/cover_letters/.gitkeep
+
+assets/data/info.toml

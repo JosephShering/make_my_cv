@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    mustache (1.1.1)
+    parslet (1.8.2)
+    toml (0.2.0)
+      parslet (~> 1.8.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  mustache
+  toml
+
+BUNDLED WITH
+   2.1.4
